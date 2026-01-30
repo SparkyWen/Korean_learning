@@ -1,0 +1,114 @@
+{
+  "mistakes": [
+    {
+      "challengeIdentifier": {
+        "generatorId": "688ee45124544ed5ced51afaf3a922bd",
+        "specificType": "assist"
+      },
+      "courseId": "DUOLINGO_KO_EN",
+      "inboxResolvedCount": 0,
+      "inInboxSinceTimestamp": 1769623612438,
+      "learningResolvedCount": 0,
+      "levelIndex": 0,
+      "prompt": "cell phone",
+      "skillId": "9489a83ad3c74de090532a53916899f1",
+      "timestamp": 1769623612438,
+      "userId": 1519668220,
+      "mispronouncedWords": null,
+      "maxAIUserResponse": null,
+      "maxAICorrectResponse": null,
+      "maxAIChallengePrompt": null,
+      "maxAIAnnotatedSolution": null,
+      "targetLanguage": null,
+      "solutionTranslation": null
+    },
+    {
+      "challengeIdentifier": {
+        "generatorId": "0508a85ecf29d562cb7ed55b391c3550",
+        "specificType": "tap"
+      },
+      "courseId": "DUOLINGO_KO_EN",
+      "inboxResolvedCount": 0,
+      "inInboxSinceTimestamp": 1769623349979,
+      "learningResolvedCount": 0,
+      "levelIndex": 0,
+      "prompt": "하얀색 볼펜이에요.",
+      "skillId": "9489a83ad3c74de090532a53916899f1",
+      "timestamp": 1769623349979,
+      "userId": 1519668220,
+      "mispronouncedWords": null,
+      "maxAIUserResponse": null,
+      "maxAICorrectResponse": null,
+      "maxAIChallengePrompt": null,
+      "maxAIAnnotatedSolution": null,
+      "targetLanguage": "en",
+      "solutionTranslation": null
+    },
+    {
+      "challengeIdentifier": {
+        "generatorId": "a62a50cb5f0e7ab32efd50bc0358b863",
+        "specificType": "assist"
+      },
+      "courseId": "DUOLINGO_KO_EN",
+      "inboxResolvedCount": 0,
+      "inInboxSinceTimestamp": 1769190204061,
+      "learningResolvedCount": 0,
+      "levelIndex": 0,
+      "prompt": "japchae",
+      "skillId": "21d6d8c048f14417afadf85a71d6d679",
+      "timestamp": 1769190204061,
+      "userId": 1519668220,
+      "mispronouncedWords": null,
+      "maxAIUserResponse": null,
+      "maxAICorrectResponse": null,
+      "maxAIChallengePrompt": null,
+      "maxAIAnnotatedSolution": null,
+      "targetLanguage": null,
+      "solutionTranslation": null
+    },
+    {
+      "challengeIdentifier": {
+        "generatorId": "61c9cbb3af2ff9f3d9ee675da2901255",
+        "specificType": "tap"
+      },
+      "courseId": "DUOLINGO_KO_EN",
+      "inboxResolvedCount": 0,
+      "inInboxSinceTimestamp": 1768963861454,
+      "learningResolvedCount": 0,
+      "levelIndex": 1,
+      "prompt": "커피 감사합니다.",
+      "skillId": "4f2884e0b049495c83ea7e7bf323e956",
+      "timestamp": 1768963861454,
+      "userId": 1519668220,
+      "mispronouncedWords": null,
+      "maxAIUserResponse": null,
+      "maxAICorrectResponse": null,
+      "maxAIChallengePrompt": null,
+      "maxAIAnnotatedSolution": null,
+      "targetLanguage": "en",
+      "solutionTranslation": null
+    },
+    {
+      "challengeIdentifier": {
+        "generatorId": "ac5349252b143577de78212881ee1f17",
+        "specificType": "tap"
+      },
+      "courseId": "DUOLINGO_KO_EN",
+      "inboxResolvedCount": 0,
+      "inInboxSinceTimestamp": 1768928506905,
+      "learningResolvedCount": 0,
+      "levelIndex": 0,
+      "prompt": "빵 감사합니다.",
+      "skillId": "4f2884e0b049495c83ea7e7bf323e956",
+      "timestamp": 1768928506905,
+      "userId": 1519668220,
+      "mispronouncedWords": null,
+      "maxAIUserResponse": null,
+      "maxAICorrectResponse": null,
+      "maxAIChallengePrompt": null,
+      "maxAIAnnotatedSolution": null,
+      "targetLanguage": "en",
+      "solutionTranslation": null
+    }
+  ]
+}

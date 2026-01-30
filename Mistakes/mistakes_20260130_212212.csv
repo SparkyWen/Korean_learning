@@ -1,0 +1,6 @@
+﻿prompt,timestamp,skillId,challengeIdentifier,courseId,inInboxSinceTimestamp,inboxResolvedCount,learningResolvedCount,levelIndex,maxAIAnnotatedSolution,maxAIChallengePrompt,maxAICorrectResponse,maxAIUserResponse,mispronouncedWords,solutionTranslation,targetLanguage,userId
+cell phone,1769623612438,9489a83ad3c74de090532a53916899f1,"{""generatorId"": ""688ee45124544ed5ced51afaf3a922bd"", ""specificType"": ""assist""}",DUOLINGO_KO_EN,1769623612438,0,0,0,,,,,,,,1519668220
+하얀색 볼펜이에요.,1769623349979,9489a83ad3c74de090532a53916899f1,"{""generatorId"": ""0508a85ecf29d562cb7ed55b391c3550"", ""specificType"": ""tap""}",DUOLINGO_KO_EN,1769623349979,0,0,0,,,,,,,en,1519668220
+japchae,1769190204061,21d6d8c048f14417afadf85a71d6d679,"{""generatorId"": ""a62a50cb5f0e7ab32efd50bc0358b863"", ""specificType"": ""assist""}",DUOLINGO_KO_EN,1769190204061,0,0,0,,,,,,,,1519668220
+커피 감사합니다.,1768963861454,4f2884e0b049495c83ea7e7bf323e956,"{""generatorId"": ""61c9cbb3af2ff9f3d9ee675da2901255"", ""specificType"": ""tap""}",DUOLINGO_KO_EN,1768963861454,0,0,1,,,,,,,en,1519668220
+빵 감사합니다.,1768928506905,4f2884e0b049495c83ea7e7bf323e956,"{""generatorId"": ""ac5349252b143577de78212881ee1f17"", ""specificType"": ""tap""}",DUOLINGO_KO_EN,1768928506905,0,0,0,,,,,,,en,1519668220
